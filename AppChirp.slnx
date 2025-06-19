@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/方案項目/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="AppChirp.AppHost/AppChirp.AppHost.csproj" />
+  <Project Path="AppChirp.ServiceDefaults/AppChirp.ServiceDefaults.csproj" />
+  <Project Path="AppChirp.UnitTests/AppChirp.UnitTests.csproj" Id="32f6e7a8-a15e-485b-b8a0-dfd3194a47fb" />
+  <Project Path="AppChirp/AppChirp.csproj" />
+  <Project Path="AppChirpDemo/AppChirpDemo.csproj" />
+</Solution>
