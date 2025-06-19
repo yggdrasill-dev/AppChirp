@@ -1,6 +1,8 @@
 <Solution>
   <Folder Name="/方案項目/">
     <File Path=".editorconfig" />
+    <File Path="LICENSE.txt" />
+    <File Path="README.md" />
   </Folder>
   <Project Path="AppChirp.AppHost/AppChirp.AppHost.csproj" />
   <Project Path="AppChirp.ServiceDefaults/AppChirp.ServiceDefaults.csproj" />

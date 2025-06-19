@@ -4,6 +4,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>AppChirp</PackageId>
+    <Title>AppChirp</Title>
+    <Version>0.0.1</Version>
+    <Authors>Phoenix</Authors>
+    <Company>Valhalla</Company>
+    <PackageProjectUrl>https://github.com/yggdrasill-dev/AppChirp</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/yggdrasill-dev/AppChirp.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
