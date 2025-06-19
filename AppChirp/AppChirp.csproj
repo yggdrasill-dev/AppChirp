@@ -6,12 +6,20 @@
     <Nullable>enable</Nullable>
     <PackageId>AppChirp</PackageId>
     <Title>AppChirp</Title>
-    <Version>0.0.1</Version>
+    <Version>0.0.2</Version>
     <Authors>Phoenix</Authors>
     <Company>Valhalla</Company>
     <PackageProjectUrl>https://github.com/yggdrasill-dev/AppChirp</PackageProjectUrl>
     <RepositoryUrl>https://github.com/yggdrasill-dev/AppChirp.git</RepositoryUrl>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="9.0.6" />
