@@ -6,12 +6,13 @@
     <Nullable>enable</Nullable>
     <PackageId>AppChirp</PackageId>
     <Title>AppChirp</Title>
-    <Version>0.0.2</Version>
+    <Version>0.0.3</Version>
     <Authors>Phoenix</Authors>
     <Company>Valhalla</Company>
     <PackageProjectUrl>https://github.com/yggdrasill-dev/AppChirp</PackageProjectUrl>
     <RepositoryUrl>https://github.com/yggdrasill-dev/AppChirp.git</RepositoryUrl>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <Description>AppChirp 是一個用於程式內訊息傳遞的 .NET 套件，支援事件型態的即時訊息發送與接收，適合應用於模組間解耦、訊息推播等場景。</Description>
   </PropertyGroup>
 
   <ItemGroup>
